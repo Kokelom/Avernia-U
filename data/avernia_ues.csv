@@ -1,0 +1,504 @@
+ID,ZONA,UNIVERSIDAD,CARRERA,% NEM,% LENGUAJE Y LITERATURA,% MATEMÁTICAS,% CIENCIAS SOCIALES,% BIOLOGÍA,% FÍSICA,% QUÍMICA,PROM_MINIMO_LEN_MAT,VACANTES_1SEM
+10001,Centro,Universidad Central de Veredonia,Arquitectura,11.11,22.22,44.44,11.11,3.7,3.7,3.71,458,145
+10002,Centro,Universidad Central de Veredonia,Actuación Teatral,12.5,37.5,18.75,31.25,0.0,0.0,0.0,458,25
+10003,Centro,Universidad Central de Veredonia,Diseño Teatral,12.5,31.25,25.0,31.25,0.0,0.0,0.0,458,25
+10004,Centro,Universidad Central de Veredonia,Diseño,12.5,31.25,31.25,12.5,4.16,4.16,4.17,458,90
+10005,Centro,Universidad Central de Veredonia,"Artes Visuales, Lic. en Artes con Mención en",12.5,43.75,12.5,31.25,0.0,0.0,0.0,458,80
+10006,Centro,Universidad Central de Veredonia,"Teoría e Historia del Arte, Lic. en Artes con Mención en",12.5,43.75,12.5,31.25,0.0,0.0,0.0,458,35
+10007,Centro,Universidad Central de Veredonia,Teoría de la Música,12.5,31.25,25.0,31.25,0.0,0.0,0.0,458,20
+10008,Centro,Universidad Central de Veredonia,Ingeniería Agronómica,11.76,11.76,29.41,23.53,7.85,7.85,7.84,458,130
+10009,Centro,Universidad Central de Veredonia,Ingeniería Forestal,11.76,11.76,29.41,23.53,7.85,7.85,7.84,458,50
+10010,Centro,Universidad Central de Veredonia,Medicina Veterinaria,12.5,25.0,43.75,0.0,6.25,6.25,6.25,458,180
+10011,Centro,Universidad Central de Veredonia,Ingeniería en Recursos Naturales Renovables,11.76,11.76,29.41,23.53,7.85,7.85,7.84,458,70
+10012,Centro,Universidad Central de Veredonia,Contador Auditor,11.11,11.11,55.56,11.11,3.7,3.7,3.71,458,70
+10013,Centro,Universidad Central de Veredonia,Ingeniería en Información y Control de Gestión,11.11,11.11,55.56,11.11,3.7,3.7,3.71,458,140
+10014,Centro,Universidad Central de Veredonia,Pedagogía en Educación Media en Matemática y Física,12.5,12.5,37.5,0.0,12.5,12.5,12.5,458,63
+10015,Centro,Universidad Central de Veredonia,Biología con Mención en Medio Ambiente,25.0,12.5,31.25,0.0,10.41,10.41,10.43,458,35
+10016,Centro,Universidad Central de Veredonia,Bioquímica,12.5,12.5,37.5,0.0,12.5,12.5,12.5,458,39
+10017,Centro,Universidad Central de Veredonia,Ingeniería en Alimentos,12.5,12.5,37.5,0.0,12.5,12.5,12.5,458,36
+10018,Centro,Universidad Central de Veredonia,Lic. en Ciencias con Mención en Biología,25.0,12.5,31.25,0.0,10.41,10.41,10.43,458,25
+10019,Centro,Universidad Central de Veredonia,Lic. en Ciencias con Mención en Física,25.0,12.5,50.0,0.0,4.16,4.16,4.17,458,25
+10020,Centro,Universidad Central de Veredonia,Lic. en Ciencias con Mención en Matemáticas,12.5,12.5,62.5,0.0,4.16,4.16,4.17,458,25
+10021,Centro,Universidad Central de Veredonia,Química,12.5,12.5,37.5,0.0,12.5,12.5,12.5,458,39
+10022,Centro,Universidad Central de Veredonia,Lic. en Ciencias con Mención en Química,12.5,25.0,37.5,0.0,8.34,8.34,8.32,458,20
+10023,Centro,Universidad Central de Veredonia,Química y Farmacia,12.5,12.5,37.5,0.0,12.5,12.5,12.5,458,139
+10024,Centro,Universidad Central de Veredonia,Química Ambiental,20.0,13.33,33.33,0.0,11.11,11.11,11.12,458,25
+10025,Centro,Universidad Central de Veredonia,Ingeniería en Biotecnología Molecular,25.0,12.5,31.25,0.0,10.41,10.41,10.43,458,35
+10026,Centro,Universidad Central de Veredonia,Administración Pública,14.29,28.57,28.57,28.57,0.0,0.0,0.0,458,130
+10027,Centro,Universidad Central de Veredonia,Ingeniería Comercial,11.11,11.11,55.56,11.11,3.7,3.7,3.71,458,380
+10028,Centro,Universidad Central de Veredonia,Ingeniería y Ciencias - Plan Común,13.33,13.33,53.33,0.0,6.67,6.67,6.67,458,730
+10029,Centro,Universidad Central de Veredonia,Derecho,25.0,31.25,12.5,31.25,0.0,0.0,0.0,458,420
+10030,Centro,Universidad Central de Veredonia,Antropología - Arqueología,25.0,25.0,18.75,31.25,0.0,0.0,0.0,458,70
+10031,Centro,Universidad Central de Veredonia,"Filosofía, Licenciatura en",12.5,37.5,18.75,31.25,0.0,0.0,0.0,458,80
+10032,Centro,Universidad Central de Veredonia,Geografía,11.11,22.22,22.22,22.22,7.41,7.41,7.4,458,55
+10033,Centro,Universidad Central de Veredonia,"Historia, Licenciatura en",12.5,25.0,18.75,43.75,0.0,0.0,0.0,458,90
+10034,Centro,Universidad Central de Veredonia,"Lingística y Literatura Inglesas, Licenciatura en",12.5,37.5,18.75,31.25,0.0,0.0,0.0,458,78
+10035,Centro,Universidad Central de Veredonia,Periodismo,12.5,37.5,18.75,31.25,0.0,0.0,0.0,458,110
+10036,Centro,Universidad Central de Veredonia,Psicología,11.76,29.41,23.53,17.65,5.88,5.88,5.88,458,55
+10037,Centro,Universidad Central de Veredonia,Sociología,25.0,31.25,25.0,18.75,0.0,0.0,0.0,458,90
+10038,Centro,Universidad Central de Veredonia,"Lingística y Literatura con Mención, Licenciatura en",12.5,43.75,18.75,25.0,0.0,0.0,0.0,458,100
+10039,Centro,Universidad Central de Veredonia,"Bachillerato, Programa Académico de",22.22,27.78,27.78,11.11,3.7,3.7,3.71,458,300
+10040,Centro,Universidad Central de Veredonia,Enfermería,12.5,18.75,31.25,0.0,12.5,12.5,12.5,458,97
+10041,Centro,Universidad Central de Veredonia,Fonoaudiología,12.5,18.75,31.25,0.0,12.5,12.5,12.5,458,50
+10042,Centro,Universidad Central de Veredonia,Kinesiología,12.5,18.75,31.25,0.0,12.5,12.5,12.5,458,42
+10043,Centro,Universidad Central de Veredonia,Medicina,12.5,18.75,31.25,0.0,12.5,12.5,12.5,458,190
+10044,Centro,Universidad Central de Veredonia,Nutrición y Dietética,12.5,18.75,31.25,0.0,12.5,12.5,12.5,458,46
+10045,Centro,Universidad Central de Veredonia,Obstetricia y Puericultura,12.5,18.75,31.25,0.0,12.5,12.5,12.5,458,76
+10046,Centro,Universidad Central de Veredonia,Tecnología Médica,12.5,18.75,31.25,0.0,12.5,12.5,12.5,458,86
+10047,Centro,Universidad Central de Veredonia,Terapia Ocupacional,12.5,25.0,25.0,0.0,12.5,12.5,12.5,458,55
+10048,Centro,Universidad Central de Veredonia,Cine y Televisión,9.52,28.57,14.29,23.81,7.93,7.93,7.94,458,57
+10049,Centro,Universidad Central de Veredonia,Odontología,12.5,18.75,25.0,0.0,14.59,14.59,14.57,458,98
+10050,Centro,Universidad Central de Veredonia,Danza,14.29,42.86,14.29,28.57,0.0,0.0,0.0,458,25
+10051,Centro,Universidad Central de Veredonia,Trabajo Social,21.05,26.32,21.05,15.79,5.26,5.26,5.26,458,48
+10052,Centro,Universidad Central de Veredonia,Pedagogía en Educación Media en Biología y Química,25.0,12.5,31.25,0.0,10.41,10.41,10.43,458,45
+10053,Centro,Universidad Central de Veredonia,Pedagogía en Educación Parvularia,31.58,21.05,15.79,15.79,5.26,5.26,5.26,458,40
+10054,Centro,Universidad Central de Veredonia,Pedagogía en Educación Básica,10.0,25.0,25.0,20.0,6.67,6.67,6.66,458,30
+10055,Centro,Universidad Central de Veredonia,Ingeniería en Sonido,12.5,25.0,50.0,0.0,4.16,4.16,4.17,458,24
+10056,Centro,Universidad Central de Veredonia,Estudios Internacionales,25.0,25.0,25.0,25.0,0.0,0.0,0.0,458,35
+10057,Centro,Universidad Central de Veredonia,Ciencia Política,14.29,28.57,28.57,28.57,0.0,0.0,0.0,458,35
+10058,Centro,Universidad Central de Veredonia,Ingeniería en Recursos Hídricos,11.76,11.76,29.41,23.53,7.85,7.85,7.84,458,30
+10059,Centro,Universidad Cívica de Veredonia,Ingeniería Civil en Electricidad,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,120
+10060,Centro,Universidad Cívica de Veredonia,Ingeniería Civil en Geografía,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,25
+10061,Centro,Universidad Cívica de Veredonia,Ingeniería Civil en Industria,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,140
+10062,Centro,Universidad Cívica de Veredonia,Ingeniería Civil en Informática,33.33,20.0,33.33,0.0,4.44,4.44,4.45,458,95
+10063,Centro,Universidad Cívica de Veredonia,Ingeniería Civil en Mecánica,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,100
+10064,Centro,Universidad Cívica de Veredonia,Ingeniería Civil en Metalurgia,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,60
+10065,Centro,Universidad Cívica de Veredonia,Ingeniería Civil en Minas,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,80
+10066,Centro,Universidad Cívica de Veredonia,Ingeniería Civil en Obras Civiles,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,80
+10067,Centro,Universidad Cívica de Veredonia,Ingeniería Civil en Química,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,70
+10068,Centro,Universidad Cívica de Veredonia,Ingeniería de Ejecución en Electricidad,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,65
+10069,Centro,Universidad Cívica de Veredonia,Ingeniería de Ejecución en Industria,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,110
+10070,Centro,Universidad Cívica de Veredonia,Ingeniería de Ejecución en Computación e Informática,33.33,20.0,33.33,0.0,4.44,4.44,4.45,458,48
+10071,Centro,Universidad Cívica de Veredonia,Ingeniería de Ejecución en Mecánica,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,50
+10072,Centro,Universidad Cívica de Veredonia,Ingeniería de Ejecución en Metalurgia,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,30
+10073,Centro,Universidad Cívica de Veredonia,Ingeniería de Ejecución en Minas,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,60
+10074,Centro,Universidad Cívica de Veredonia,Ingeniería de Ejecución en Química,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,40
+10075,Centro,Universidad Cívica de Veredonia,Ingeniería de Ejecución en Climatización,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,25
+10076,Centro,Universidad Cívica de Veredonia,Bachillerato en Ciencias y Humanidades,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,160
+10077,Centro,Universidad Cívica de Veredonia,Administración Pública,13.33,26.67,20.0,20.0,6.67,6.67,6.67,458,80
+10078,Centro,Universidad Cívica de Veredonia,Ingeniería Comercial,14.29,14.29,42.86,14.29,4.76,4.76,4.77,458,355
+10079,Centro,Universidad Cívica de Veredonia,Contador Público y Auditor (diurno),14.29,14.29,42.86,14.29,4.76,4.76,4.77,458,220
+10080,Centro,Universidad Cívica de Veredonia,Contador Público y Auditor (vespertino),14.29,14.29,42.86,14.29,4.76,4.76,4.77,458,30
+10081,Centro,Universidad Cívica de Veredonia,Química y Farmacia,16.67,25.0,41.67,0.0,5.55,5.55,5.57,458,75
+10082,Centro,Universidad Cívica de Veredonia,Técnico Universitario en Análisis Químico y Físico (diurno),16.67,25.0,41.67,0.0,5.55,5.55,5.57,458,20
+10083,Centro,Universidad Cívica de Veredonia,Bioquímica y Licenciatura en Bioquímica,16.67,25.0,41.67,0.0,5.55,5.55,5.57,458,40
+10084,Centro,Universidad Cívica de Veredonia,Ingeniería Física,16.67,16.67,50.0,0.0,5.55,5.55,5.57,458,65
+10085,Centro,Universidad Cívica de Veredonia,Pedagogía en Química y Biología,16.67,25.0,41.67,0.0,5.55,5.55,5.57,458,25
+10086,Centro,Universidad Cívica de Veredonia,Química y Licenciatura en Química,16.67,25.0,41.67,0.0,5.55,5.55,5.57,458,25
+10087,Centro,Universidad Cívica de Veredonia,Pedagogía en Matemática y Computación,16.67,16.67,50.0,0.0,5.55,5.55,5.57,458,35
+10088,Centro,Universidad Cívica de Veredonia,Analista en Computación Científica / Licenciaturaen Ciencia de la Computación,16.67,16.67,50.0,0.0,5.55,5.55,5.57,458,45
+10089,Centro,Universidad Cívica de Veredonia,Ingeniería Matemática,16.67,16.67,50.0,0.0,5.55,5.55,5.57,458,45
+10090,Centro,Universidad Cívica de Veredonia,Ingeniería Estadística,16.67,16.67,50.0,0.0,5.55,5.55,5.57,458,45
+10091,Centro,Universidad Cívica de Veredonia,Pedagogía en Física y Matemática,16.67,16.67,50.0,0.0,5.55,5.55,5.57,458,30
+10092,Centro,Universidad Cívica de Veredonia,Pedagogía en Castellano,16.67,50.0,16.67,16.67,0.0,0.0,0.0,458,41
+10093,Centro,Universidad Cívica de Veredonia,Pedagogía en Historia y Ciencias Sociales,16.67,33.33,16.67,33.33,0.0,0.0,0.0,458,50
+10094,Centro,Universidad Cívica de Veredonia,Pedagogía en Inglés,16.67,50.0,16.67,16.67,0.0,0.0,0.0,458,56
+10095,Centro,Universidad Cívica de Veredonia,Pedagogía en Filosofía,16.67,50.0,16.67,16.67,0.0,0.0,0.0,458,20
+10096,Centro,Universidad Cívica de Veredonia,Licenciatura en Ling. Aplic. a la Trad. Inglés - Japons e Inglés Portug.,16.67,50.0,16.67,16.67,0.0,0.0,0.0,458,41
+10097,Centro,Universidad Cívica de Veredonia,Periodismo,16.67,50.0,16.67,16.67,0.0,0.0,0.0,458,70
+10098,Centro,Universidad Cívica de Veredonia,Pedagogía en Educación General Básica,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,40
+10099,Centro,Universidad Cívica de Veredonia,Licenciatura en Estudios Internacionales,16.67,33.33,16.67,33.33,0.0,0.0,0.0,458,52
+10100,Centro,Universidad Cívica de Veredonia,Licenciatura en Historia,16.67,33.33,16.67,33.33,0.0,0.0,0.0,458,31
+10101,Centro,Universidad Cívica de Veredonia,Psicología,16.67,41.67,25.0,16.67,0.0,0.0,0.0,458,86
+10102,Centro,Universidad Cívica de Veredonia,Publicidad,14.29,42.86,14.29,14.29,4.76,4.76,4.77,458,50
+10103,Centro,Universidad Cívica de Veredonia,Ingeniería de Alimentos,16.67,25.0,41.67,0.0,5.55,5.55,5.57,458,35
+10104,Centro,Universidad Cívica de Veredonia,Ingeniería en Agronegocios,14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,25
+10105,Centro,Universidad Cívica de Veredonia,Arquitectura,13.33,26.67,20.0,20.0,6.67,6.67,6.67,458,83
+10106,Centro,Universidad Cívica de Veredonia,Técnico Universitario en Análisis Químico y Físico (vespertino),16.67,25.0,41.67,0.0,5.55,5.55,5.57,458,10
+10107,Centro,Universidad Cívica de Veredonia,Tecnología en Administración de Personal,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,25
+10108,Centro,Universidad Cívica de Veredonia,Tecnología en Alimentos,14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,25
+10109,Centro,Universidad Cívica de Veredonia,Tecnología en Construcciones,14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,25
+10110,Centro,Universidad Cívica de Veredonia,Tecnología en Automatización Industrial,14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,25
+10111,Centro,Universidad Cívica de Veredonia,Tecnología en Mantenimiento Industrial,14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,25
+10112,Centro,Universidad Cívica de Veredonia,Tecnología en Telecomunicaciones,14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,25
+10113,Centro,Universidad Cívica de Veredonia,Medicina,16.67,25.0,25.0,0.0,11.12,11.12,11.1,458,60
+10114,Centro,Universidad Cívica de Veredonia,Enfermería,16.67,25.0,25.0,0.0,11.12,11.12,11.1,458,60
+10115,Centro,Universidad Cívica de Veredonia,Obstetricia y Puericultura,16.67,25.0,25.0,0.0,11.12,11.12,11.1,458,50
+10116,Centro,Universidad Cívica de Veredonia,Pedagogía en Educación Física,16.67,25.0,25.0,0.0,11.12,11.12,11.1,458,35
+10117,Centro,Universidad Cívica de Veredonia,Licenciatura en Cs de la Actividad Física / Terapeuta en Act Física y Salud,16.67,25.0,25.0,0.0,11.12,11.12,11.1,458,25
+10118,Centro,Universidad Cívica de Veredonia,Licenciatura en Ciencias de la Actividad Física / Entrenador Deportivo,16.67,25.0,25.0,0.0,11.12,11.12,11.1,458,35
+10119,Centro,Universidad Cívica de Veredonia,Kinesiología,16.67,25.0,25.0,0.0,11.12,11.12,11.1,458,50
+10120,Centro,Universidad Cívica de Veredonia,Terapia Ocupacional,16.67,33.33,16.67,0.0,11.12,11.12,11.1,458,40
+10121,Centro,Universidad Cívica de Veredonia,Derecho,16.67,33.33,16.67,33.33,0.0,0.0,0.0,458,190
+10122,Centro,Universidad Cívica de Veredonia,Ingeniería Civil Biomédica,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,70
+10123,Centro,Universidad Cívica de Veredonia,Ingeniería Civil en Telemática,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,45
+10124,Centro,Universidad Cívica de Veredonia,Ingeniería Civil Mecatrónica,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,70
+10125,Centro,Universidad Cívica de Veredonia,Ingeniería Civil en Biotecnología,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,70
+10126,Centro,Universidad Cívica de Veredonia,Ingeniería Civil en Ambiente,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,68
+10127,Centro,Universidad Cívica de Veredonia,Diseño en Comunicación Visual,14.29,42.86,14.29,14.29,4.76,4.76,4.77,458,35
+10128,Centro,Universidad Cívica de Veredonia,Ingeniería Civil en Geomensura y Geomática,33.33,13.33,40.0,0.0,4.44,4.44,4.45,458,40
+10129,Centro,Universidad Cívica de Veredonia,Astrofísica con Mención en Ciencia de Datos,16.67,16.67,50.0,0.0,5.55,5.55,5.57,458,30
+10130,Centro,Universidad Cívica de Veredonia,Diseño Industrial,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,35
+10131,Centro,Universidad Cívica de Veredonia,Análisis y Gestión de Procesos Productivos,14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,25
+10132,Sur,Universidad Austral de Avernia,"Agronomia, Licenciatura en Agronomía",28.57,21.43,35.71,0.0,4.76,4.76,4.77,485,90
+10133,Sur,Universidad Austral de Avernia,"Biología Marina, Licenciatura en Biología Marina",16.67,16.67,33.33,0.0,11.12,11.12,11.1,485,45
+10134,Sur,Universidad Austral de Avernia,"Bioquímica, Licenciatura en Bioquímica",16.67,16.67,41.67,0.0,8.33,8.33,8.33,500,43
+10135,Sur,Universidad Austral de Avernia,"Auditoria, Licenciatura en Control de Gestion",25.0,18.75,31.25,12.5,4.16,4.16,4.17,485,40
+10136,Sur,Universidad Austral de Avernia,"Ingenieria Civil en Obras Civiles, Licenciatura en Ciencias de la Ingenieria",14.29,14.29,57.14,0.0,4.76,4.76,4.77,500,65
+10137,Sur,Universidad Austral de Avernia,"Enfermeria, Licenciatura en Enfermeria",28.57,21.43,28.57,0.0,7.14,7.14,7.14,500,57
+10138,Sur,Universidad Austral de Avernia,"Ingenieria Civil en Informática, Licenciatura en Ciencias de la Ingenieria",14.29,14.29,57.14,0.0,4.76,4.76,4.77,485,65
+10139,Sur,Universidad Austral de Avernia,"Ingeniería Comercial, Lic. en Ciencias de la Admi. de Empresas",25.0,18.75,31.25,12.5,4.16,4.16,4.17,485,90
+10140,Sur,Universidad Austral de Avernia,Medicina,14.29,21.43,42.86,0.0,7.14,7.14,7.14,500,46
+10141,Sur,Universidad Austral de Avernia,"Medicina Veterinaria, Licenciatura en Medicina Veterinaria",21.43,14.29,35.71,0.0,9.53,9.53,9.51,500,100
+10142,Sur,Universidad Austral de Avernia,"Obstetricia y Puericultura, Licenciatura en Obstetricia y Puericultura",16.67,33.33,25.0,0.0,8.33,8.33,8.33,500,45
+10143,Sur,Universidad Austral de Avernia,"Tecnología Medica, Licenciatura en Tecnología Medica",28.57,21.43,28.57,0.0,7.14,7.14,7.14,500,57
+10144,Sur,Universidad Austral de Avernia,"Antropologia, Licenciatura en Antropologia",16.67,41.67,16.67,25.0,0.0,0.0,0.0,485,42
+10145,Sur,Universidad Austral de Avernia,"Ingenieria Civil Acustica, Licenciatura en Ciencias de la Ingenieria",14.29,14.29,57.14,0.0,4.76,4.76,4.77,485,20
+10146,Sur,Universidad Austral de Avernia,"Terapia Ocupacional, Licenciatura en Terapia Ocupacional",21.43,28.57,28.57,0.0,7.14,7.14,7.14,500,52
+10147,Sur,Universidad Austral de Avernia,"Arquitectura, Licenciatura en Arquitectura",16.67,25.0,41.67,16.67,0.0,0.0,0.0,500,75
+10148,Sur,Universidad Austral de Avernia,"Química y Farmacia, Licenciatura en Ciencias Farmaceuticas",23.08,23.08,23.08,0.0,10.26,10.26,10.25,500,60
+10149,Sur,Universidad Austral de Avernia,"Ingenieria Civil Electrónica, Licenciatura en Ciencias de la Ingenieria",14.29,14.29,57.14,0.0,4.76,4.76,4.77,485,52
+10150,Sur,Universidad Austral de Avernia,"Ingenieria en Construccion, Licenciatura en Ciencias de la Construcción",14.29,14.29,57.14,0.0,4.76,4.76,4.77,485,67
+10151,Sur,Universidad Austral de Avernia,"Ingenieria Naval, Licenciatura en Ciencias de la Ingenieria",14.29,14.29,57.14,0.0,4.76,4.76,4.77,485,55
+10152,Sur,Universidad Austral de Avernia,"Ingenieria Civil Industrial, Licenciatura en Ciencias de la Ingenieria",14.29,14.29,57.14,0.0,4.76,4.76,4.77,485,70
+10153,Sur,Universidad Austral de Avernia,"Ingenieria en Alimentos, Licenciatura en Ciencias de los Alimentos",23.08,23.08,38.46,0.0,5.12,5.12,5.14,485,25
+10154,Sur,Universidad Austral de Avernia,"Administración de Empresas de Turismo, Licenciatura en Turismo",28.57,28.57,21.43,21.43,0.0,0.0,0.0,485,45
+10155,Sur,Universidad Austral de Avernia,"Periodismo, Licenciatura en Comunicación Social",16.67,41.67,16.67,25.0,0.0,0.0,0.0,485,42
+10156,Sur,Universidad Austral de Avernia,Licenciatura en Artes Visuales,42.86,21.43,14.29,21.43,0.0,0.0,0.0,500,30
+10157,Sur,Universidad Austral de Avernia,"Pedagogía en Educación Física, Deportes y Recreacion, Licenciatura en Educación",15.38,23.08,15.38,23.08,7.69,7.69,7.69,485,45
+10158,Sur,Universidad Austral de Avernia,"Kinesiologia, Licenciatura en Kinesiologia",28.57,14.29,35.71,0.0,7.14,7.14,7.14,500,52
+10159,Sur,Universidad Austral de Avernia,"Pedagogía en Historia y Ciencias Sociales, Licenciatura en Educación y Licenciatura en Historia",25.0,25.0,16.67,33.33,0.0,0.0,0.0,485,40
+10160,Sur,Universidad Austral de Avernia,"Ingenieria Comercial, Lic. en Ciencias de la Admi. de Empresas",25.0,18.75,31.25,12.5,4.16,4.16,4.17,485,60
+10161,Sur,Universidad Austral de Avernia,"Ingenieria Civil Mecánica, Licenciatura en Ciencias de la Ingenieria",14.29,14.29,57.14,0.0,4.76,4.76,4.77,485,50
+10162,Sur,Universidad Austral de Avernia,"Derecho, Licenciatura en Ciencias Juridicas y Sociales",14.29,42.86,14.29,28.57,0.0,0.0,0.0,500,85
+10163,Sur,Universidad Austral de Avernia,"Pedagogía en Lenguaje y Comunicación, Licenciatura en Educación",16.67,50.0,16.67,16.67,0.0,0.0,0.0,485,38
+10164,Sur,Universidad Austral de Avernia,"Pedagogía en Comunicación en Lengua Inglesa, Licenciatura en Educación",20.0,40.0,20.0,20.0,0.0,0.0,0.0,485,38
+10165,Sur,Universidad Austral de Avernia,"Tecnología Medica, Licenciatura en Tecnología Medica",28.57,21.43,28.57,0.0,7.14,7.14,7.14,500,60
+10166,Sur,Universidad Austral de Avernia,"Fonoaudiologia, Licenciatura en Fonoaudiologia",28.57,35.71,14.29,0.0,7.14,7.14,7.14,485,60
+10167,Sur,Universidad Austral de Avernia,"Psicologia, Licenciatura en Psicologia",25.0,25.0,25.0,12.5,4.16,4.16,4.17,485,65
+10168,Sur,Universidad Austral de Avernia,"Odontologia, Licenciatura en Ciencias Odontologicas",23.08,30.77,23.08,0.0,7.69,7.69,7.69,500,66
+10169,Sur,Universidad Austral de Avernia,Bachillerato en Ciencias de la Ingenieria Plan Comun,14.29,14.29,57.14,0.0,4.76,4.76,4.77,485,42
+10170,Sur,Universidad Austral de Avernia,"Pedagogía en Educación Diferencial C/m, Licenciatura en Educación",28.57,35.71,21.43,14.29,0.0,0.0,0.0,485,40
+10171,Sur,Universidad Austral de Avernia,"Pedagogía en Matemáticas, Licenciatura en Educación",25.0,12.5,37.5,12.5,4.16,4.16,4.17,485,25
+10172,Sur,Universidad Austral de Avernia,Bachillerato en Ciencias de la Ingeniería,14.29,14.29,57.14,0.0,4.76,4.76,4.77,485,25
+10173,Sur,Universidad Austral de Avernia,Bachillerato en Ciencias y Recursos Naturales,28.57,14.29,21.43,0.0,11.9,11.9,11.91,485,25
+10174,Sur,Universidad Austral de Avernia,"Geografía, Licenciatura en Geografía",14.29,28.57,28.57,14.29,4.76,4.76,4.77,485,43
+10175,Sur,Universidad Austral de Avernia,"Ing en Informacion y Control de Gestión, Licenciatura en Cs. de la Informacion y Control de Gestión",25.0,12.5,37.5,12.5,4.16,4.16,4.17,485,45
+10176,Sur,Universidad Austral de Avernia,Licenciatura en Ciencias con Mencion,16.67,16.67,33.33,0.0,11.12,11.12,11.1,500,75
+10177,Sur,Universidad Austral de Avernia,"Geología, Licenciatura en Geología",16.67,16.67,41.67,0.0,8.33,8.33,8.33,485,50
+10178,Sur,Universidad Austral de Avernia,"Ingeniería Civil Industrial, Licenciatura en Ciencias de la Ingeniería",14.29,14.29,57.14,0.0,4.76,4.76,4.77,485,65
+10179,Sur,Universidad Austral de Avernia,"Pedagogía en Educación Basica con Menciones, Licenciatura en Educación",25.0,25.0,25.0,12.5,4.16,4.16,4.17,485,35
+10180,Sur,Universidad Austral de Avernia,"Pedagogía en Educación Basica con Menciones, Licenciatura en Educación",25.0,25.0,25.0,12.5,4.16,4.16,4.17,485,25
+10181,Sur,Universidad Austral de Avernia,"Enfermería, Licenciatura en Enfermería",28.57,21.43,28.57,0.0,7.14,7.14,7.14,500,50
+10182,Sur,Universidad Austral de Avernia,"Psicología, Licenciatura en Psicología",25.0,25.0,25.0,12.5,4.16,4.16,4.17,485,57
+10183,Sur,Universidad Austral de Avernia,Ingenieria en Conservación de Recursos Naturales - Ingeniería Forestal,14.29,21.43,42.86,0.0,7.14,7.14,7.14,485,60
+10184,Sur,Universidad Austral de Avernia,"Administración Publica, Licenciatura en Administración Publica y Ciencias Politicas",28.57,35.71,21.43,14.29,0.0,0.0,0.0,485,45
+10185,Sur,Universidad Austral de Avernia,"Terapia Ocupacional, Licenciatura en Terapia Ocupacional",21.43,28.57,28.57,0.0,7.14,7.14,7.14,500,45
+10186,Sur,Universidad Austral de Avernia,"Artes Musicales y Sonoras, Licenciatura en Artes Musicales y Sonoras",25.0,25.0,25.0,12.5,4.16,4.16,4.17,485,35
+10187,Sur,Universidad Austral de Avernia,"Diseño, Licenciatura en Diseño",14.29,28.57,28.57,14.29,4.76,4.76,4.77,485,45
+10188,Sur,Universidad Austral de Avernia,"Derecho, Licenciatura en Ciencias Juridicas y Sociales",14.29,42.86,14.29,28.57,0.0,0.0,0.0,500,45
+10189,Sur,Universidad Austral de Avernia,"Creación Audiovisual, Licenciatura en Creación Audiovisual",14.29,28.57,35.71,21.43,0.0,0.0,0.0,485,30
+10190,Sur,Universidad Austral de Avernia,"Arqueología, Licenciatura en Arqueología",23.08,30.77,15.38,30.77,0.0,0.0,0.0,485,33
+10191,Sur,Universidad Austral de Avernia,"Administración Pública, Licenciatura en Administración Pública y Ciencias Políticas",28.57,35.71,21.43,14.29,0.0,0.0,0.0,485,55
+10192,Sur,Universidad Austral de Avernia,"Ingeniería Ambiental, Licenciatura en Ciencias Ambientales",14.29,28.57,42.86,0.0,4.76,4.76,4.77,485,35
+10193,Sur,Universidad Austral de Avernia,"Pedagogía en Educación Parvularia, Licenciatura en Educación",20.0,30.0,20.0,30.0,0.0,0.0,0.0,485,30
+10194,Sur,Universidad Austral de Avernia,"Trabajo Social, Licenciatura en Trabajo Social",28.57,28.57,21.43,21.43,0.0,0.0,0.0,485,40
+10195,Sur,Universidad Austral de Avernia,"Pedagogía en Educación Parvularia, Licenciatura en Educación",20.0,30.0,20.0,30.0,0.0,0.0,0.0,485,30
+10196,Norte,Universidad Minera del Norte,Enfermeria. Licenciado en Enfermeria,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,45
+10197,Norte,Universidad Minera del Norte,Kinesiologia. Licenciado en Kinesiologia,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,47
+10198,Norte,Universidad Minera del Norte,Obstetricia y Puericultura.,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,20
+10199,Norte,Universidad Minera del Norte,Trabajo Social.,14.29,35.71,21.43,14.29,4.76,4.76,4.77,458,25
+10200,Norte,Universidad Minera del Norte,Tecnología Médica.,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,45
+10201,Norte,Universidad Minera del Norte,Derecho. Licenciado en Ciencias Juridicas,25.0,33.33,16.67,25.0,0.0,0.0,0.0,458,70
+10202,Norte,Universidad Minera del Norte,Pedagogía en Biología y Ciencias Naturales.,16.67,33.33,16.67,16.67,5.55,5.55,5.57,458,15
+10203,Norte,Universidad Minera del Norte,Administración Publica. Licenciado en Cs. de la Adm,14.29,35.71,21.43,14.29,4.76,4.76,4.77,458,25
+10204,Norte,Universidad Minera del Norte,Medicina. Licenciado en Medicina,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,40
+10205,Norte,Universidad Minera del Norte,Odontología.,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,45
+10206,Norte,Universidad Minera del Norte,Pedagogía en Lenguaje y Comunicación.,16.67,33.33,16.67,16.67,5.55,5.55,5.57,458,25
+10207,Norte,Universidad Minera del Norte,Pedagogía en Matemática.,16.67,16.67,33.33,16.67,5.55,5.55,5.57,458,15
+10208,Norte,Universidad Minera del Norte,"Bioquímica, Licenciado en Bioquímica",16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,25
+10209,Norte,Universidad Minera del Norte,Bachillerato en Ciencias. Bachiller en Ciencias,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,30
+10210,Norte,Universidad Minera del Norte,Nutrición y Dietética.,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,45
+10211,Norte,Universidad Minera del Norte,Bachillerato en Ciencias de la Salud. Bachiller en Ciencias de la Salud,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,60
+10212,Norte,Universidad Minera del Norte,Ingenieria Civil en Procesos Minerales,14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,15
+10213,Norte,Universidad Minera del Norte,"Ingeniería Comercial, M/negocios Mineros.",14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,45
+10214,Norte,Universidad Minera del Norte,Ingeniería Civil Industrial,14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,45
+10215,Norte,Universidad Minera del Norte,Biología Marina,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,20
+10216,Norte,Universidad Minera del Norte,Diseño Grafico Mencion Diseño Estrategico,14.29,35.71,21.43,14.29,4.76,4.76,4.77,458,30
+10217,Norte,Universidad Minera del Norte,Psicología,14.29,35.71,21.43,14.29,4.76,4.76,4.77,458,25
+10218,Norte,Universidad Minera del Norte,"Fonoaudiologia, Licenciado en Fonoaudiologia",16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,35
+10219,Norte,Universidad Minera del Norte,Ped.ed.parvularia Men.nec.educativas Especiales,16.67,33.33,16.67,16.67,5.55,5.55,5.57,458,25
+10220,Norte,Universidad Minera del Norte,"Ped.en Ed.básica, Mención Lenguaje y Comunic.y Matemática.",16.67,25.0,25.0,16.67,5.55,5.55,5.57,458,25
+10221,Norte,Universidad Minera del Norte,Música,14.29,42.86,14.29,14.29,4.76,4.76,4.77,458,20
+10222,Norte,Universidad Minera del Norte,Artes Escenicas,14.29,42.86,14.29,14.29,4.76,4.76,4.77,458,15
+10223,Norte,Universidad Minera del Norte,Bachillerato en Cs.sociales y Artes.,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,20
+10224,Norte,Universidad Minera del Norte,Terapia Ocupacional,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,30
+10225,Norte,Universidad Minera del Norte,Ingenieria Civil Electrica,14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,45
+10226,Norte,Universidad Minera del Norte,Ingenieria Civil Mecánica,14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,45
+10227,Norte,Universidad Minera del Norte,Ingenieria Civil en Minas,14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,45
+10228,Norte,Universidad Minera del Norte,Ingenieria Civil en Geomensura y Geomatica,14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,15
+10229,Norte,Universidad Minera del Norte,Ingenieria en Biotecnologia,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,25
+10230,Norte,Universidad Minera del Norte,Pedagogía en Educación Física,16.67,33.33,16.67,16.67,5.55,5.55,5.57,458,40
+10231,Norte,Universidad Minera del Norte,Pedagogía en Inglés,16.67,33.33,16.67,16.67,5.55,5.55,5.57,458,20
+10232,Norte,Universidad Minera del Norte,"Licenciatura en Ciencias, Mención en Física y Astrofísica",14.29,21.43,35.71,14.29,4.76,4.76,4.77,458,15
+10233,Norte,Universidad Minera del Norte,Química y Farmacia,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,40
+10234,Norte,Universidad Astronómica del Norte,Ingeniería Civil Industrial,22.22,16.67,44.44,0.0,5.56,5.56,5.56,500,55
+10235,Norte,Universidad Astronómica del Norte,Ingeniería Civil Mecánica,22.22,16.67,44.44,0.0,5.56,5.56,5.56,500,55
+10236,Norte,Universidad Astronómica del Norte,Ingeniería Civil de Minas,22.22,16.67,44.44,0.0,5.56,5.56,5.56,500,45
+10237,Norte,Universidad Astronómica del Norte,Ingeniería Civil,22.22,16.67,44.44,0.0,5.56,5.56,5.56,500,50
+10238,Norte,Universidad Astronómica del Norte,Ingeniería Civil Ambiental,22.22,16.67,44.44,0.0,5.56,5.56,5.56,500,35
+10239,Norte,Universidad Astronómica del Norte,Ingeniería en Construcción,22.22,16.67,44.44,0.0,5.56,5.56,5.56,500,55
+10240,Norte,Universidad Astronómica del Norte,Ingeniería en Alimentos,16.67,16.67,38.89,0.0,9.26,9.26,9.27,475,30
+10241,Norte,Universidad Astronómica del Norte,Arquitectura,15.0,30.0,35.0,10.0,3.33,3.33,3.34,500,75
+10242,Norte,Universidad Astronómica del Norte,Ingeniería Mecánica,22.22,16.67,44.44,0.0,5.56,5.56,5.56,475,70
+10243,Norte,Universidad Astronómica del Norte,Ingeniería de Minas,22.22,16.67,44.44,0.0,5.56,5.56,5.56,475,70
+10244,Norte,Universidad Astronómica del Norte,Licenciatura en Matemáticas,12.5,12.5,62.5,0.0,4.16,4.16,4.17,500,10
+10245,Norte,Universidad Astronómica del Norte,Pedagogía en Matemáticas y Computación,18.75,25.0,43.75,0.0,4.16,4.16,4.17,500,25
+10246,Norte,Universidad Astronómica del Norte,Pedagogía en Biología y Cs Naturales,12.5,18.75,31.25,0.0,12.5,12.5,12.5,500,25
+10247,Norte,Universidad Astronómica del Norte,Pedagogía en Matemáticas y Física,12.5,12.5,37.5,0.0,12.5,12.5,12.5,500,25
+10248,Norte,Universidad Astronómica del Norte,Pedagogía en Química y Cs Naturales,18.75,18.75,31.25,0.0,10.41,10.41,10.43,500,25
+10249,Norte,Universidad Astronómica del Norte,Licenciatura en Física,12.5,12.5,62.5,0.0,4.16,4.16,4.17,500,15
+10250,Norte,Universidad Astronómica del Norte,Licenciatura en Astronomía,12.5,12.5,62.5,0.0,4.16,4.16,4.17,500,30
+10251,Norte,Universidad Astronómica del Norte,Ingeniería Agronómica,17.65,17.65,41.18,0.0,7.85,7.85,7.84,475,40
+10252,Norte,Universidad Astronómica del Norte,Enfermería,25.0,25.0,25.0,0.0,8.34,8.34,8.32,500,35
+10253,Norte,Universidad Astronómica del Norte,Ingeniería en Computación,17.65,23.53,47.06,0.0,3.92,3.92,3.93,475,45
+10254,Norte,Universidad Astronómica del Norte,Odontología,25.0,18.75,31.25,0.0,8.34,8.34,8.32,500,60
+10255,Norte,Universidad Astronómica del Norte,Kinesiología,25.0,18.75,31.25,0.0,8.34,8.34,8.32,500,45
+10256,Norte,Universidad Astronómica del Norte,Química,23.53,23.53,29.41,0.0,7.85,7.85,7.84,475,45
+10257,Norte,Universidad Astronómica del Norte,Pedagogía en Castellano y Filosofía,25.0,50.0,12.5,12.5,0.0,0.0,0.0,500,50
+10258,Norte,Universidad Astronómica del Norte,Pedagogía en Historia y Geografía,33.33,22.22,11.11,33.33,0.0,0.0,0.0,500,50
+10259,Norte,Universidad Astronómica del Norte,Pedagogía en Inglés,25.0,50.0,12.5,12.5,0.0,0.0,0.0,500,40
+10260,Norte,Universidad Astronómica del Norte,Pedagogía en Educación Musical,31.25,31.25,25.0,12.5,0.0,0.0,0.0,500,35
+10261,Norte,Universidad Astronómica del Norte,Licenciatura en Música,31.25,31.25,25.0,12.5,0.0,0.0,0.0,475,20
+10262,Norte,Universidad Astronómica del Norte,Pedagogía en Educación Parvularia,37.5,25.0,18.75,18.75,0.0,0.0,0.0,500,45
+10263,Norte,Universidad Astronómica del Norte,Pedagogía en Educación General Básica,37.5,25.0,18.75,18.75,0.0,0.0,0.0,500,30
+10264,Norte,Universidad Astronómica del Norte,Pedagogía en Educación Diferencial,25.0,25.0,31.25,18.75,0.0,0.0,0.0,500,40
+10265,Norte,Universidad Astronómica del Norte,Pedagogía en Educación General Básica,37.5,25.0,18.75,18.75,0.0,0.0,0.0,500,30
+10266,Norte,Universidad Astronómica del Norte,Auditoria,22.22,22.22,33.33,11.11,3.7,3.7,3.71,475,60
+10267,Norte,Universidad Astronómica del Norte,Traducción Inglés - Espaol,25.0,50.0,12.5,12.5,0.0,0.0,0.0,475,30
+10268,Norte,Universidad Astronómica del Norte,Psicología,25.0,25.0,20.0,15.0,5.0,5.0,5.0,500,40
+10269,Norte,Universidad Astronómica del Norte,Periodismo,22.22,33.33,11.11,33.33,0.0,0.0,0.0,475,50
+10270,Norte,Universidad Astronómica del Norte,Diseño,22.22,33.33,22.22,11.11,3.7,3.7,3.71,475,50
+10271,Norte,Universidad Astronómica del Norte,Ingeniería Comercial,21.05,21.05,36.84,10.53,3.51,3.51,3.52,475,65
+10272,Norte,Universidad Astronómica del Norte,Ingeniería en Administración de Empresas,21.05,21.05,36.84,10.53,3.51,3.51,3.52,475,55
+10273,Norte,Universidad Astronómica del Norte,Derecho,22.22,33.33,11.11,33.33,0.0,0.0,0.0,500,50
+10274,Centro,Universidad Regional de Avernia,"Educación Parvularia, Licenciatura en Educación",10.53,26.32,10.53,26.32,8.77,8.77,8.78,458,30
+10275,Centro,Universidad Regional de Avernia,"Pedagogía en Educación Basica, Licenciatura en Educación",22.22,27.78,27.78,11.11,3.7,3.7,3.71,458,30
+10276,Centro,Universidad Regional de Avernia,"Pedagogía en Educación Diferencial, Licenciatura en Educación",22.22,27.78,27.78,11.11,3.7,3.7,3.71,458,45
+10277,Centro,Universidad Regional de Avernia,Pedagogía en Educación Diferencial - Licenciatura en Educación - San Felipe,22.22,27.78,27.78,11.11,3.7,3.7,3.71,458,40
+10278,Centro,Universidad Regional de Avernia,Pedagogía en Castellano - Licenciatura en Educación - San Felipe,20.0,30.0,10.0,20.0,6.67,6.67,6.66,458,20
+10279,Centro,Universidad Regional de Avernia,"Pedagogía en Castellano, Licenciatura en Educación",20.0,30.0,10.0,20.0,6.67,6.67,6.66,458,35
+10280,Centro,Universidad Regional de Avernia,"Pedagogía en Ingles, Licenciatura en Educación",20.0,30.0,10.0,20.0,6.67,6.67,6.66,458,50
+10281,Centro,Universidad Regional de Avernia,Traduccion e Interpretacion Ingles - Espaol,42.86,14.29,14.29,14.29,4.76,4.76,4.77,458,70
+10282,Centro,Universidad Regional de Avernia,Licenciatura en Arte,20.0,30.0,10.0,20.0,6.67,6.67,6.66,458,40
+10283,Centro,Universidad Regional de Avernia,Dibujante Proyectista,25.0,25.0,25.0,12.5,4.16,4.16,4.17,458,20
+10284,Centro,Universidad Regional de Avernia,"Pedagogía en Educación Musical, Licenciatura en Educación",22.22,33.33,22.22,11.11,3.7,3.7,3.71,458,30
+10285,Centro,Universidad Regional de Avernia,"Pedagogía en Educación Física (damas), Licenciatura en Educación",22.22,27.78,27.78,11.11,3.7,3.7,3.71,458,20
+10286,Centro,Universidad Regional de Avernia,"Pedagogía en Educación Física (varones), Licenciatura en Educación",22.22,27.78,27.78,11.11,3.7,3.7,3.71,458,20
+10287,Centro,Universidad Regional de Avernia,"Pedagogía en Historia y Geografía, Licenciatura en Educación",20.0,30.0,10.0,20.0,6.67,6.67,6.66,458,35
+10288,Centro,Universidad Regional de Avernia,Fonoaudiología. Licenciatura en Fonoaudiología,22.22,33.33,22.22,11.11,3.7,3.7,3.71,458,60
+10289,Centro,Universidad Regional de Avernia,"Geografía, Licenciaturaen Geografía C/mencion en Gestion y Ordenamiento Territorial",19.05,23.81,9.52,23.81,7.93,7.93,7.94,458,20
+10290,Centro,Universidad Regional de Avernia,"Pedagogía en Filosofia, Licenciatura en Educación",18.18,27.27,9.09,22.73,7.57,7.57,7.58,458,15
+10291,Centro,Universidad Regional de Avernia,Pedagogía en Ingles - Licenciatura en Educación - San Felipe,20.0,30.0,10.0,20.0,6.67,6.67,6.66,458,20
+10292,Centro,Universidad Regional de Avernia,"Pedagogía en Biología y Ciencias, Licenciatura en Educación",26.32,26.32,15.79,15.79,5.26,5.26,5.26,458,15
+10293,Centro,Universidad Regional de Avernia,"Ingenieria Civil Ambiental, Licenciatura en Ciencias de la Ingenieria",22.22,22.22,33.33,11.11,3.7,3.7,3.71,458,25
+10294,Centro,Universidad Regional de Avernia,"Ingenieria Civil Industrial, Licenciatura en Ciencias de la Ingenieria",25.0,25.0,25.0,12.5,4.16,4.16,4.17,458,25
+10295,Centro,Universidad Regional de Avernia,"Pedagogía en Física, Licenciatura en Educación",25.0,25.0,25.0,12.5,4.16,4.16,4.17,458,15
+10296,Centro,Universidad Regional de Avernia,"Pedagogía en Química y Ciencias, Licenciatura en Educación",29.41,17.65,17.65,17.65,5.88,5.88,5.88,458,15
+10297,Centro,Universidad Regional de Avernia,"Nutricion y Dietetica, Licenciatura en Nutricion",42.86,14.29,14.29,14.29,4.76,4.76,4.77,458,60
+10298,Centro,Universidad Regional de Avernia,Pedagogía en Matemática - Licenciatura en Educación,18.75,25.0,31.25,12.5,4.16,4.16,4.17,458,30
+10299,Centro,Universidad Regional de Avernia,"Bibliotecologia, Licenciatura en Ciencias de la Documentacion",22.22,33.33,22.22,11.11,3.7,3.7,3.71,458,20
+10300,Centro,Universidad Regional de Avernia,"Periodismo, Licenciatura en Comunicación Social",20.0,30.0,10.0,20.0,6.67,6.67,6.66,458,50
+10301,Centro,Universidad Regional de Avernia,Administración Turística Multilinge C/m Inglés - Francs o Inglés - Alemán,20.0,30.0,20.0,15.0,5.0,5.0,5.0,458,50
+10302,Centro,Universidad Regional de Avernia,Psicología. Licenciatura en Psicología,42.86,14.29,14.29,14.29,4.76,4.76,4.77,458,80
+10303,Centro,Universidad Regional de Avernia,"Enfermeria, Licenciatura en Enfermeria",42.86,14.29,14.29,14.29,4.76,4.76,4.77,458,50
+10304,Centro,Universidad Regional de Avernia,"Terapia Ocupacional, Licenciatura en Ciencias de la Ocupacion Humana",42.86,14.29,14.29,14.29,4.76,4.76,4.77,458,60
+10305,Centro,Universidad Regional de Avernia,"Kinesiologia, Licenciatura en Kinesiologia",29.41,23.53,23.53,11.76,3.92,3.92,3.93,458,60
+10306,Centro,Universidad Regional de Avernia,Tecnología en Deportes y Recreación,22.22,27.78,27.78,11.11,3.7,3.7,3.71,458,25
+10307,Centro,Universidad Regional de Avernia,"Sociologia, Licenciatura en Sociologia",19.05,23.81,9.52,23.81,7.93,7.93,7.94,458,30
+10308,Centro,Universidad Regional de Avernia,"Teatro, Licenciatura en Arte Escenico",20.0,30.0,10.0,20.0,6.67,6.67,6.66,458,20
+10309,Centro,Universidad Regional de Avernia,Ingenieria en Informática C/m en Gestion de la Inf - San Felipe,22.22,22.22,33.33,11.11,3.7,3.7,3.71,458,30
+10310,Centro,Universidad Regional de Avernia,Diseño,22.22,22.22,33.33,11.11,3.7,3.7,3.71,458,30
+10311,Centro,Universidad Regional de Avernia,"Ingenieria Civil Informática, Licenciatura en Ciencias de la Ingeniería",22.22,22.22,33.33,11.11,3.7,3.7,3.71,458,40
+10312,Centro,Universidad Regional de Avernia,"Ingeniería Comercial, Licenciatura en Ciencias de la Administración",20.0,20.0,20.0,20.0,6.67,6.67,6.66,458,30
+10313,Centro,Universidad Regional de Avernia,"Derecho, Licenciatura en Ciencias Jurídicas y Sociales",20.0,30.0,10.0,20.0,6.67,6.67,6.66,458,80
+10314,Centro,Universidad Regional de Avernia,Ingenieria Civil en Aguas,22.22,22.22,33.33,11.11,3.7,3.7,3.71,458,35
+10315,Norte,Universidad Solar de Atacama,Ingenieria Civil en Minas,14.29,14.29,42.86,14.29,4.76,4.76,4.77,458,80
+10316,Norte,Universidad Solar de Atacama,Ingenieria Civil en Metalurgia,14.29,14.29,42.86,14.29,4.76,4.76,4.77,458,50
+10317,Norte,Universidad Solar de Atacama,Ingenieria Civil en Computacion e Informática,14.29,14.29,42.86,14.29,4.76,4.76,4.77,458,50
+10318,Norte,Universidad Solar de Atacama,Ingenieria Civil Industrial,14.29,14.29,42.86,14.29,4.76,4.76,4.77,458,60
+10319,Norte,Universidad Solar de Atacama,Geologia,14.29,14.29,42.86,14.29,4.76,4.76,4.77,458,80
+10320,Norte,Universidad Solar de Atacama,Psicologia,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,60
+10321,Norte,Universidad Solar de Atacama,Licenciatura en Educación y Pedagogía en Educación Física,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,30
+10322,Norte,Universidad Solar de Atacama,Licenciatura en Traductología y Traductor e Intrprete Inglés - Espaol,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,35
+10323,Norte,Universidad Solar de Atacama,Licenciatura en Educación. y Pedagogía en Educación General Básica,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,30
+10324,Norte,Universidad Solar de Atacama,Licenciatura en Educación y Pedagogía en Inglés,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,30
+10325,Norte,Universidad Solar de Atacama,Licenciatura en Educación y Pedagogía en Educación Parvularia,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,30
+10326,Norte,Universidad Solar de Atacama,Construccion Civil,14.29,14.29,42.86,14.29,4.76,4.76,4.77,458,40
+10327,Norte,Universidad Solar de Atacama,Derecho,16.67,33.33,16.67,33.33,0.0,0.0,0.0,458,70
+10328,Norte,Universidad Solar de Atacama,Trabajo Social,14.29,28.57,28.57,14.29,4.76,4.76,4.77,458,50
+10329,Norte,Universidad Solar de Atacama,Kinesiologia,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,60
+10330,Norte,Universidad Solar de Atacama,Nutricion y Dietetica,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,60
+10331,Norte,Universidad Solar de Atacama,Obstetricia y Puericultura,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,60
+10332,Norte,Universidad Solar de Atacama,Ingenieria Comercial,14.29,14.29,42.86,14.29,4.76,4.76,4.77,458,50
+10333,Norte,Universidad Solar de Atacama,Medicina,16.67,16.67,33.33,0.0,11.12,11.12,11.1,500,45
+10334,Norte,Universidad Solar de Atacama,Enfermeria,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,60
+10335,Sur,Universidad Fronteriza del Sur,Contador Publico y Auditor,12.5,25.0,37.5,12.5,4.16,4.16,4.17,485,35
+10336,Sur,Universidad Fronteriza del Sur,Ingenieria en Construccion,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,50
+10337,Sur,Universidad Fronteriza del Sur,Ingenieria Civil Electrónica,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,30
+10338,Sur,Universidad Fronteriza del Sur,Ingenieria Civil Industrial,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,90
+10339,Sur,Universidad Fronteriza del Sur,Enfermeria,14.29,21.43,35.71,0.0,9.53,9.53,9.51,485,61
+10340,Sur,Universidad Fronteriza del Sur,Fonoaudiologia,14.29,21.43,35.71,0.0,9.53,9.53,9.51,485,35
+10341,Sur,Universidad Fronteriza del Sur,Terapia Ocupacional,14.29,21.43,35.71,0.0,9.53,9.53,9.51,485,41
+10342,Sur,Universidad Fronteriza del Sur,Kinesiologia,14.29,21.43,35.71,0.0,9.53,9.53,9.51,485,51
+10343,Sur,Universidad Fronteriza del Sur,Química y Farmacia,14.29,21.43,35.71,0.0,9.53,9.53,9.51,485,40
+10344,Sur,Universidad Fronteriza del Sur,Medicina,14.29,21.43,35.71,0.0,9.53,9.53,9.51,485,56
+10345,Sur,Universidad Fronteriza del Sur,Nutricion y Dietetica,14.29,21.43,35.71,0.0,9.53,9.53,9.51,485,42
+10346,Sur,Universidad Fronteriza del Sur,Obstetricia y Puericultura,14.29,21.43,35.71,0.0,9.53,9.53,9.51,485,40
+10347,Sur,Universidad Fronteriza del Sur,Odontologia,15.38,23.08,46.15,0.0,5.12,5.12,5.14,485,70
+10348,Sur,Universidad Fronteriza del Sur,Tecnología Medica,14.29,21.43,35.71,0.0,9.53,9.53,9.51,485,57
+10349,Sur,Universidad Fronteriza del Sur,Medicina Veterinaria,20.0,20.0,40.0,0.0,6.66,6.66,6.68,485,50
+10350,Sur,Universidad Fronteriza del Sur,Ingenieria Civil Química,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,30
+10351,Sur,Universidad Fronteriza del Sur,Derecho,14.29,35.71,28.57,21.43,0.0,0.0,0.0,485,100
+10352,Sur,Universidad Fronteriza del Sur,Pedagogía en Castellano y Comunicación,20.0,40.0,20.0,20.0,0.0,0.0,0.0,485,30
+10353,Sur,Universidad Fronteriza del Sur,"Pedagogía en Educación Física, Deportes y Rec.",16.67,25.0,25.0,16.67,5.55,5.55,5.57,485,40
+10354,Sur,Universidad Fronteriza del Sur,"Pedagogía en Historia, Geografía. y Educación Civica",20.0,40.0,20.0,20.0,0.0,0.0,0.0,485,35
+10355,Sur,Universidad Fronteriza del Sur,Pedagogía en Ingles,16.67,33.33,16.67,16.67,5.55,5.55,5.57,485,35
+10356,Sur,Universidad Fronteriza del Sur,Pedagogía Matemática,20.0,20.0,40.0,0.0,6.66,6.66,6.68,485,30
+10357,Sur,Universidad Fronteriza del Sur,"Pedagogía en Ciencias M. Biología, Química o Física",20.0,20.0,30.0,0.0,10.0,10.0,10.0,485,25
+10358,Sur,Universidad Fronteriza del Sur,Psicologia,14.29,28.57,28.57,14.29,4.76,4.76,4.77,485,60
+10359,Sur,Universidad Fronteriza del Sur,Bachillerato en Ciencias Sociales,15.38,23.08,15.38,23.08,7.69,7.69,7.69,485,30
+10360,Sur,Universidad Fronteriza del Sur,Trabajo Social,20.0,40.0,20.0,20.0,0.0,0.0,0.0,485,35
+10361,Sur,Universidad Fronteriza del Sur,Biotecnologia,20.0,20.0,40.0,0.0,6.66,6.66,6.68,485,30
+10362,Sur,Universidad Fronteriza del Sur,Ingenieria en Recursos Naturales,20.0,20.0,40.0,0.0,6.66,6.66,6.68,485,30
+10363,Sur,Universidad Fronteriza del Sur,Agronomia,20.0,20.0,40.0,0.0,6.66,6.66,6.68,485,45
+10364,Sur,Universidad Fronteriza del Sur,Bioquímica,16.67,16.67,41.67,0.0,8.33,8.33,8.33,485,30
+10365,Sur,Universidad Fronteriza del Sur,Ingenieria Civil Telematica,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,15
+10366,Sur,Universidad Fronteriza del Sur,Plan Comun Ingenieria Civil,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,80
+10367,Sur,Universidad Fronteriza del Sur,Ingenieria Civil Electrica,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,40
+10368,Sur,Universidad Fronteriza del Sur,Ingenieria Civil Matemática,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,15
+10369,Sur,Universidad Fronteriza del Sur,Ingenieria Civil Ambiental,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,15
+10370,Sur,Universidad Fronteriza del Sur,Ingenieria Comercial,12.5,25.0,37.5,12.5,4.16,4.16,4.17,485,70
+10371,Sur,Universidad Fronteriza del Sur,Ingenieria Informática,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,40
+10372,Sur,Universidad Fronteriza del Sur,Ingenieria Civil en Biotecnologia,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,20
+10373,Sur,Universidad Fronteriza del Sur,Periodismo,20.0,40.0,20.0,20.0,0.0,0.0,0.0,485,25
+10374,Sur,Universidad Fronteriza del Sur,Sociologia,20.0,30.0,20.0,30.0,0.0,0.0,0.0,485,25
+10375,Sur,Universidad Fronteriza del Sur,Ingenieria Civil,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,40
+10376,Sur,Universidad Fronteriza del Sur,Ingenieria Civil Informática,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,40
+10377,Sur,Universidad Fronteriza del Sur,Ingenieria Civil Mecánica,16.67,16.67,50.0,0.0,5.55,5.55,5.57,485,40
+10378,Sur,Universidad Lacustre del Sur,Arquitectura,16.67,16.67,33.33,16.67,5.55,5.55,5.57,485,40
+10379,Sur,Universidad Lacustre del Sur,Kinesiologia,20.0,30.0,30.0,0.0,6.66,6.66,6.68,485,40
+10380,Sur,Universidad Lacustre del Sur,Ingenieria Civil en Informática,14.29,14.29,42.86,14.29,4.76,4.76,4.77,485,50
+10381,Sur,Universidad Lacustre del Sur,Enfermeria,18.18,27.27,36.36,0.0,6.05,6.05,6.07,485,80
+10382,Sur,Universidad Lacustre del Sur,Ingenieria Civil,14.29,14.29,42.86,14.29,4.76,4.76,4.77,485,35
+10383,Sur,Universidad Lacustre del Sur,Ingenieria Civil Electrica,14.29,14.29,42.86,14.29,4.76,4.76,4.77,485,35
+10384,Sur,Universidad Lacustre del Sur,Contador Publico y Auditor,14.29,21.43,35.71,14.29,4.76,4.76,4.77,485,40
+10385,Sur,Universidad Lacustre del Sur,Ingenieria Comercial,14.29,21.43,35.71,14.29,4.76,4.76,4.77,485,40
+10386,Sur,Universidad Lacustre del Sur,Ciencias Politicas y Administrativas,20.0,20.0,20.0,40.0,0.0,0.0,0.0,485,40
+10387,Sur,Universidad Lacustre del Sur,Ingenieria Civil en Informática,14.29,14.29,42.86,14.29,4.76,4.76,4.77,485,45
+10388,Sur,Universidad Lacustre del Sur,Ingenieria Civil Industrial,14.29,14.29,42.86,14.29,4.76,4.76,4.77,485,35
+10389,Sur,Universidad Lacustre del Sur,Ingenieria Ambiental,14.29,28.57,28.57,14.29,4.76,4.76,4.77,485,20
+10390,Sur,Universidad Lacustre del Sur,Ingenieria en Alimentos,20.0,20.0,40.0,0.0,6.66,6.66,6.68,485,20
+10391,Sur,Universidad Lacustre del Sur,Biología Marina,20.0,20.0,40.0,0.0,6.66,6.66,6.68,485,20
+10392,Sur,Universidad Lacustre del Sur,Enfermeria,18.18,27.27,36.36,0.0,6.05,6.05,6.07,485,80
+10393,Sur,Universidad Lacustre del Sur,Kinesiologia,20.0,30.0,30.0,0.0,6.66,6.66,6.68,485,50
+10394,Sur,Universidad Lacustre del Sur,Nutricion y Dietetica,16.67,25.0,33.33,0.0,8.33,8.33,8.33,485,50
+10395,Sur,Universidad Lacustre del Sur,Pedagogía en Educación Media en Historia y Geografía,16.67,33.33,16.67,33.33,0.0,0.0,0.0,485,35
+10396,Sur,Universidad Lacustre del Sur,Pedagogía en Educación Media en Matemática y Computacion,16.67,16.67,33.33,16.67,5.55,5.55,5.57,485,30
+10397,Sur,Universidad Lacustre del Sur,Pedagogía en Educación Media en Educación Física,16.67,33.33,16.67,16.67,5.55,5.55,5.57,485,35
+10398,Sur,Universidad Lacustre del Sur,Pedagogía en Educación Media en Ingles,16.67,50.0,16.67,16.67,0.0,0.0,0.0,485,45
+10399,Sur,Universidad Lacustre del Sur,Pedagogía en Educación Media en Lengua Castellana y Comunicaciones,14.29,42.86,14.29,14.29,4.76,4.76,4.77,485,35
+10400,Sur,Universidad Lacustre del Sur,Pedagogía en Educación Media en Educación Física,16.67,33.33,16.67,16.67,5.55,5.55,5.57,485,35
+10401,Sur,Universidad Lacustre del Sur,Educación Diferencial con Especializacion en Problemas de Aprendizaje,14.29,35.71,21.43,14.29,4.76,4.76,4.77,485,50
+10402,Sur,Universidad Lacustre del Sur,Educación Parvularia,14.29,28.57,28.57,14.29,4.76,4.76,4.77,485,50
+10403,Sur,Universidad Lacustre del Sur,Pedagogía en Educación Básica Mención Lenguaje y Matemática,16.67,25.0,25.0,16.67,5.55,5.55,5.57,485,40
+10404,Sur,Universidad Lacustre del Sur,Pedagogía en Educación General Básica,16.67,25.0,25.0,16.67,5.55,5.55,5.57,485,30
+10405,Sur,Universidad Lacustre del Sur,Trabajo Social,20.0,20.0,20.0,40.0,0.0,0.0,0.0,485,40
+10406,Sur,Universidad Lacustre del Sur,Agronomía,20.0,20.0,40.0,0.0,6.66,6.66,6.68,485,40
+10407,Sur,Universidad Lacustre del Sur,Fonoaudiologia,16.67,25.0,41.67,0.0,5.55,5.55,5.57,485,45
+10408,Sur,Universidad Lacustre del Sur,Obstetricia y Puericultura,16.67,33.33,33.33,0.0,5.55,5.55,5.57,485,80
+10409,Sur,Universidad Lacustre del Sur,Terapia Ocupacional,16.67,33.33,33.33,0.0,5.55,5.55,5.57,485,45
+10410,Sur,Universidad Lacustre del Sur,Terapia Ocupacional,16.67,33.33,33.33,0.0,5.55,5.55,5.57,485,40
+10411,Sur,Universidad Lacustre del Sur,Pedagogía en Música,14.29,35.71,21.43,14.29,4.76,4.76,4.77,485,40
+10412,Sur,Universidad Lacustre del Sur,Pedagogía en Artes Visuales,14.29,35.71,21.43,14.29,4.76,4.76,4.77,485,40
+10413,Sur,Universidad Lacustre del Sur,Derecho,16.67,33.33,16.67,33.33,0.0,0.0,0.0,485,50
+10414,Sur,Universidad Lacustre del Sur,Antropologia,20.0,40.0,20.0,20.0,0.0,0.0,0.0,485,25
+10415,Sur,Universidad Lacustre del Sur,Psicologia,14.29,28.57,28.57,14.29,4.76,4.76,4.77,485,80
+10416,Sur,Universidad Lacustre del Sur,Psicologia,14.29,28.57,28.57,14.29,4.76,4.76,4.77,485,80
+10417,Sur,Universidad Lacustre del Sur,Psicología,14.29,28.57,28.57,14.29,4.76,4.76,4.77,485,70
+10418,Sur,Universidad Polar del Sur,"Ingenieria Civil, Plan Comun",16.67,16.67,33.33,16.67,5.55,5.55,5.57,458,40
+10419,Sur,Universidad Polar del Sur,Ingenieria Comercial,20.0,20.0,20.0,20.0,6.66,6.66,6.68,458,40
+10420,Sur,Universidad Polar del Sur,Kinesiologia,50.0,16.67,16.67,0.0,5.55,5.55,5.57,458,35
+10421,Sur,Universidad Polar del Sur,Terapia Ocupacional,57.14,14.29,14.29,0.0,4.76,4.76,4.77,458,30
+10422,Sur,Universidad Polar del Sur,Derecho,41.18,23.53,11.76,23.53,0.0,0.0,0.0,458,40
+10423,Sur,Universidad Polar del Sur,Auditoria,20.0,20.0,20.0,20.0,6.66,6.66,6.68,458,20
+10424,Sur,Universidad Polar del Sur,Arquitectura,46.67,13.33,13.33,13.33,4.44,4.44,4.45,458,30
+10425,Sur,Universidad Polar del Sur,"Pedagogía en Matemáticas, para Enseanza Media",46.67,13.33,13.33,13.33,4.44,4.44,4.45,458,15
+10426,Sur,Universidad Polar del Sur,Pedagogía en Educación Parvularia,46.67,13.33,13.33,13.33,4.44,4.44,4.45,458,15
+10427,Sur,Universidad Polar del Sur,Pedagogía en Educación Basica,46.67,13.33,13.33,13.33,4.44,4.44,4.45,458,15
+10428,Sur,Universidad Polar del Sur,Trabajo Social,53.85,15.38,15.38,15.38,0.0,0.0,0.0,458,20
+10429,Sur,Universidad Polar del Sur,Biología Marina,26.67,13.33,20.0,20.0,6.67,6.67,6.67,458,20
+10430,Sur,Universidad Polar del Sur,Medicina,22.22,16.67,27.78,16.67,5.56,5.56,5.56,600,50
+10431,Sur,Universidad Polar del Sur,Enfermeria,28.57,21.43,28.57,0.0,7.14,7.14,7.14,458,60
+10432,Sur,Universidad Polar del Sur,"Ingenieria, Plan Comun",16.67,16.67,33.33,16.67,5.55,5.55,5.57,458,40
+10433,Sur,Universidad Polar del Sur,Agronomia,35.71,14.29,21.43,14.29,4.76,4.76,4.77,458,20
+10434,Sur,Universidad Polar del Sur,Ingenieria en Construccion,28.57,14.29,28.57,14.29,4.76,4.76,4.77,458,20
+10435,Sur,Universidad Polar del Sur,Nutricion y Dietetica,53.85,15.38,15.38,0.0,5.12,5.12,5.14,458,35
+10436,Sur,Universidad Polar del Sur,Psicologia,46.67,13.33,13.33,13.33,4.44,4.44,4.45,458,35
+10437,Sur,Universidad Polar del Sur,"Pedagogía en Educación Física, para Enseanza Basica y Media",46.67,13.33,13.33,13.33,4.44,4.44,4.45,458,15
+10438,Sur,Universidad Polar del Sur,Fonoaudiologia,53.85,15.38,15.38,0.0,5.12,5.12,5.14,458,25
+10439,Sur,Universidad Polar del Sur,"Pedagogía en Ingles, para Enseanza Basica y Media",46.67,13.33,13.33,13.33,4.44,4.44,4.45,458,15
+10440,Sur,Universidad Polar del Sur,"Pedagogía en Castellano y Comunicación, para Enseanza Media",46.67,13.33,13.33,13.33,4.44,4.44,4.45,458,15
+10441,Sur,Universidad Polar del Sur,"Pedagogía en Historia y Ciencias Sociales, para Enseanza Media",46.67,13.33,13.33,13.33,4.44,4.44,4.45,458,15
+10442,Sur,Universidad Polar del Sur,Pedagogía en Educación Diferencial,46.67,13.33,13.33,13.33,4.44,4.44,4.45,458,15
+10443,Centro,Universidad Estatal de Rionegro,Agronomia,28.57,14.29,42.86,0.0,4.76,4.76,4.77,485,70
+10444,Centro,Universidad Estatal de Rionegro,Ingenieria Civil Industrial,28.57,14.29,42.86,0.0,4.76,4.76,4.77,485,100
+10445,Centro,Universidad Estatal de Rionegro,Ingenieria Civil en Computacion,28.57,14.29,42.86,0.0,4.76,4.76,4.77,485,60
+10446,Centro,Universidad Estatal de Rionegro,Contador Publico y Auditor,25.0,12.5,37.5,12.5,4.16,4.16,4.17,485,40
+10447,Centro,Universidad Estatal de Rionegro,Ingenieria Comercial,25.0,12.5,37.5,12.5,4.16,4.16,4.17,485,145
+10448,Centro,Universidad Estatal de Rionegro,Ingenieria Informática Empresarial,25.0,12.5,37.5,12.5,4.16,4.16,4.17,485,50
+10449,Centro,Universidad Estatal de Rionegro,Medicina,28.57,14.29,35.71,0.0,7.14,7.14,7.14,485,75
+10450,Centro,Universidad Estatal de Rionegro,Obstetricia y Puericultura,28.57,14.29,35.71,0.0,7.14,7.14,7.14,485,50
+10451,Centro,Universidad Estatal de Rionegro,Tecnología Medica,28.57,14.29,35.71,0.0,7.14,7.14,7.14,485,60
+10452,Centro,Universidad Estatal de Rionegro,Odontologia,28.57,14.29,35.71,0.0,7.14,7.14,7.14,485,50
+10453,Centro,Universidad Estatal de Rionegro,Kinesiologia,28.57,14.29,35.71,0.0,7.14,7.14,7.14,485,60
+10454,Centro,Universidad Estatal de Rionegro,Fonoaudiologia,28.57,28.57,28.57,0.0,4.76,4.76,4.77,485,50
+10455,Centro,Universidad Estatal de Rionegro,Enfermeria,28.57,14.29,35.71,0.0,7.14,7.14,7.14,485,65
+10456,Centro,Universidad Estatal de Rionegro,Nutricion y Dietetica,28.57,14.29,35.71,0.0,7.14,7.14,7.14,485,60
+10457,Centro,Universidad Estatal de Rionegro,Pedagogía en Educación Parvularia Mención en Inglés,25.0,37.5,12.5,12.5,4.16,4.16,4.17,485,20
+10458,Centro,Universidad Estatal de Rionegro,Pedagogía en Educación General Básica Mención Inglés,25.0,37.5,12.5,12.5,4.16,4.16,4.17,485,20
+10459,Centro,Universidad Estatal de Rionegro,Ingeniería Civil en Bioinformática,28.57,14.29,42.86,0.0,4.76,4.76,4.77,485,40
+10460,Centro,Universidad Estatal de Rionegro,Ingeniería Civil en Obras Civiles,28.57,14.29,42.86,0.0,4.76,4.76,4.77,485,60
+10461,Centro,Universidad Estatal de Rionegro,Ingeniería Civil Mecatrónica,28.57,14.29,42.86,0.0,4.76,4.76,4.77,485,60
+10462,Centro,Universidad Estatal de Rionegro,Ingeniería Civil Mecánica,28.57,14.29,42.86,0.0,4.76,4.76,4.77,485,40
+10463,Centro,Universidad Estatal de Rionegro,Psicologia,25.0,18.75,31.25,12.5,4.16,4.16,4.17,485,95
+10464,Centro,Universidad Estatal de Rionegro,Pedagogía en Educación Parvularia con Mención en Alemán,25.0,37.5,12.5,12.5,4.16,4.16,4.17,485,5
+10465,Centro,Universidad Estatal de Rionegro,Pedagogía en Educación Media en Inglés,28.57,42.86,14.29,14.29,0.0,0.0,0.0,485,30
+10466,Centro,Universidad Estatal de Rionegro,Pedagogía en Educación Media en Alemán,28.57,42.86,14.29,14.29,0.0,0.0,0.0,485,10
+10467,Centro,Universidad Estatal de Rionegro,Derecho,28.57,35.71,14.29,21.43,0.0,0.0,0.0,485,110
+10468,Centro,Universidad Estatal de Rionegro,Derecho,28.57,35.71,14.29,21.43,0.0,0.0,0.0,485,50
+10469,Centro,Universidad Estatal de Rionegro,Auditoria e Ingenieria en Control de Gestión,25.0,12.5,37.5,12.5,4.16,4.16,4.17,485,75
+10470,Centro,Universidad Estatal de Rionegro,Arquitectura,28.57,21.43,35.71,14.29,0.0,0.0,0.0,485,70
+10471,Centro,Universidad Estatal de Rionegro,Diseño,25.0,25.0,25.0,12.5,4.16,4.16,4.17,485,40
+10472,Centro,Universidad Estatal de Rionegro,Ingenieria Civil de Minas,28.57,14.29,42.86,0.0,4.76,4.76,4.77,485,60
+10473,Centro,Universidad Estatal de Rionegro,Pedagogía en Educación General Básica con Mención en Alemán,25.0,37.5,12.5,12.5,4.16,4.16,4.17,485,10
+10474,Centro,Universidad Estatal de Rionegro,Ingeniería Civil Elctrica,28.57,14.29,42.86,0.0,4.76,4.76,4.77,485,50
+10475,Centro,Universidad Estatal de Rionegro,Ingeniería en Desarrollo de Videojuegos y Realidad Virtual,28.57,14.29,42.86,0.0,4.76,4.76,4.77,485,60
+10476,Centro,Universidad Estatal de Rionegro,Pedagogía en Educación Media en Matemática y Física,28.57,14.29,42.86,0.0,4.76,4.76,4.77,485,20
+10477,Centro,Universidad Estatal de Rionegro,Pedagogía en Educación Media en Biología y Química,28.57,14.29,42.86,0.0,4.76,4.76,4.77,485,20
+10478,Centro,Universidad Estatal de Rionegro,Bioquímica,28.57,14.29,35.71,0.0,7.14,7.14,7.14,485,40
+10479,Centro,Universidad Estatal de Rionegro,Licenciatura en Interpretación y Formación Musical Especializada,28.57,42.86,14.29,14.29,0.0,0.0,0.0,485,20
+10480,Centro,Universidad Estatal de Rionegro,Administración Pública,28.57,28.57,28.57,14.29,0.0,0.0,0.0,485,40
+10481,Centro,Universidad Estatal de Rionegro,Terapia Ocupacional,25.0,18.75,31.25,12.5,4.16,4.16,4.17,485,50
+10482,Centro,Universidad Estatal de Veredonia Sur,Pedagogía en Educación Parvularia,12.5,37.5,25.0,12.5,4.16,4.16,4.17,458,50
+10483,Centro,Universidad Estatal de Veredonia Sur,Pedagogía en Educación Básica,12.5,37.5,25.0,12.5,4.16,4.16,4.17,458,50
+10484,Centro,Universidad Estatal de Veredonia Sur,Pedagogía en Inglés para Enseanza Básica y Media,12.5,37.5,25.0,12.5,4.16,4.16,4.17,458,90
+10485,Centro,Universidad Estatal de Veredonia Sur,Pedagogía en Lenguaje y Comunicación,12.5,37.5,25.0,12.5,4.16,4.16,4.17,458,60
+10486,Centro,Universidad Estatal de Veredonia Sur,Pedagogía en Matemática,12.5,25.0,37.5,12.5,4.16,4.16,4.17,458,60
+10487,Centro,Universidad Estatal de Veredonia Sur,Pedagogía en Educación Especial con Menciones,12.5,37.5,25.0,12.5,4.16,4.16,4.17,458,70
+10488,Centro,Universidad Estatal de Veredonia Sur,Pedagogía en Ciencias Naturales con Menciones,14.29,28.57,28.57,0.0,9.53,9.53,9.51,458,30
+10489,Centro,Universidad Estatal de Veredonia Sur,Ingeniería Agronómica,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,50
+10490,Centro,Universidad Estatal de Veredonia Sur,Ingeniería Ambiental,16.67,33.33,33.33,0.0,5.55,5.55,5.57,458,30
+10491,Centro,Universidad Estatal de Veredonia Sur,Medicina Veterinaria,14.29,28.57,28.57,0.0,9.53,9.53,9.51,458,70
+10492,Centro,Universidad Estatal de Veredonia Sur,Ingeniería Civil,12.5,25.0,50.0,0.0,4.16,4.16,4.17,458,150
+10493,Centro,Universidad Estatal de Veredonia Sur,Enfermería,14.29,28.57,28.57,0.0,9.53,9.53,9.51,458,140
+10494,Centro,Universidad Estatal de Veredonia Sur,Medicina,12.5,25.0,37.5,0.0,8.34,8.34,8.32,458,65
+10495,Centro,Universidad Estatal de Veredonia Sur,Terapia Ocupacional,14.29,28.57,28.57,0.0,9.53,9.53,9.51,458,80
+10496,Centro,Universidad Estatal de Veredonia Sur,Nutrición y Dietética,14.29,28.57,28.57,0.0,9.53,9.53,9.51,458,50
+10497,Centro,Universidad Estatal de Veredonia Sur,Kinesiología,14.29,28.57,28.57,0.0,9.53,9.53,9.51,458,50
+10498,Centro,Universidad Estatal de Veredonia Sur,Tecnología Médica,14.29,28.57,28.57,0.0,9.53,9.53,9.51,458,50
+10499,Centro,Universidad Estatal de Veredonia Sur,Administración Pública,14.29,28.57,42.86,14.29,0.0,0.0,0.0,458,50
+10500,Centro,Universidad Estatal de Veredonia Sur,Derecho,12.5,37.5,18.75,31.25,0.0,0.0,0.0,458,100
+10501,Centro,Universidad Estatal de Veredonia Sur,Ingeniería Comercial,11.11,33.33,33.33,11.11,3.7,3.7,3.71,458,110
+10502,Centro,Universidad Estatal de Veredonia Sur,Contador Auditor,12.5,25.0,37.5,12.5,4.16,4.16,4.17,458,80
+10503,Centro,Universidad Estatal de Veredonia Sur,Psicología,11.11,33.33,33.33,11.11,3.7,3.7,3.71,458,50
