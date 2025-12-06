@@ -1,15 +1,12 @@
-# app/main.py
 from fastapi import FastAPI
-from app.api.rest import router as rest_router
+# Importamos desde la nueva ubicación correcta
+from app.api.v1.endpoints.postulacion import router as postulacion_router
 
-app = FastAPI(
-    title="Proyecto ReST Avernia",
-    description="API para calcular puntaje de postulación según datos de estudiantes, resultados y carreras.",
-    version="1.0.0"
-)
+app = FastAPI(title="Proyecto ReST Avernia", version="1.0.0")
 
-@app.get("/", tags=["Estado del Servicio"])
+@app.get("/")
 def health_check():
-    return {"estado": "ok", "mensaje": "El servicio está funcionando correctamente"}
+    return {"status": "ok", "service": "Avernia API"}
 
-app.include_router(rest_router, prefix="/api")
+# Incluimos el router
+app.include_router(postulacion_router, prefix="/api", tags=["Postulaciones"])
