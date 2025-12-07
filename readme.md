@@ -53,7 +53,7 @@ Debido al tamaño de los archivos de entrada, estos no se incluyen en el reposit
 
  1. Contar con los archivos oficiales.
  1. Crear una carpeta llamada "data" en la raíz del proyecto.
- 1. Colocar los tres archivos dentro de esa carpeta.
+ 1. Colocar los archivos dentro de esa carpeta.
 
 Si se omite este paso, el servicio fallará al inciar por no encontrar los datos.
 
@@ -95,12 +95,12 @@ Con el primer comando se construirá la imagen del servicio y con el segundo se 
 
 ```bash
     curl -X 'POST' \
-  'http://localhost:8000/api/puntaje' \
-  -H 'Content-Type: application/json' \
-  -d '{
-  "codigo_estudiante": "mPHlIy6JPtw3TbJyu",
-  "codigo_carrera": 10001
-}'
+    'http://localhost:8000/api/puntaje' \
+    -H 'Content-Type: application/json' \
+    -d '{
+    "codigo_estudiante": "mPHlIy6JPtw3TbJyu",
+    "codigo_carrera": 10001
+    }'
 ```
 
 ### La respuesta esperada de ambos casos de uso será la misma:
